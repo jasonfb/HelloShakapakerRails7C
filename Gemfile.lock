@@ -180,7 +180,7 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2)
     semantic_range (3.0.0)
-    shakapacker (6.2.1)
+    shakapacker (6.3.0)
       activesupport (>= 5.2)
       rack-proxy (>= 0.6.1)
       railties (>= 5.2)
@@ -233,7 +233,7 @@ DEPENDENCIES
   rails (~> 7.0.3)
   redis (~> 4.0)
   selenium-webdriver
-  shakapacker (= 6.2.1)
+  shakapacker (= 6.3)
   sprockets-rails
   stimulus-rails
   turbo-rails
