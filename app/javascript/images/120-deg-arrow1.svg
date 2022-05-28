@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="605.34856 323.62888 150.19648 212.50276" width="150.19648" height="212.50276">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18.6\n2021-10-17 16:56:06 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="none" x="605.34856" y="323.62888" width="150.19648" height="212.50276"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_6">
+        <path d="M 726.4309 498.30175 L 726.4309 498.30175 C 754.18685 444.88115 732.6306 379.56225 678.2836 352.4079 C 661.0101 343.7772 641.7188 339.76797 622.3486 340.78312 L Z" stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="34"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 744.9847 509.11557 L 705.5655 491.565 L 705.5655 491.565 L 696.4353 487.5 L 709.33975 536.13164 L 754.1148 513.18057 L 744.9847 509.11557 Z" fill="#999"/>
+        <path d="M 744.9847 509.11557 L 705.5655 491.565 L 705.5655 491.565 L 696.4353 487.5 L 709.33975 536.13164 L 754.1148 513.18057 L 744.9847 509.11557 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
